@@ -1,6 +1,6 @@
 # Berry-curvature-for-photonic-crystals
-**Note: The latest version can be accessed via this link: https://github.com/nagato-D/Berry-curvature-for-photonic-crystals/releases/tag/v2.0.0
-**
+**Note: The latest version can be accessed via this link: https://github.com/nagato-D/Berry-curvature-for-photonic-crystals/releases/tag/v2.0.0**
+
 In the context of a 2D quantum (valley) Hall photonic crystal, we need to calculate both the Berry curvature and the Chern number. To accomplish this, you'll require a Comsol-Matlab livelink.
 
 To execute the code, follow these steps:
